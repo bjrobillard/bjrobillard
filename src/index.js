@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import Title from './Title';
 import Table from './Table';
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -16,7 +17,7 @@ root.render(
 const title = ReactDOM.createRoot(document.getElementById('title'));
 title.render(<Title />);
 
-const table = ReactDOM.createRoot(document.getElementById('magTable'));
+const table = ReactDOM.createRoot(document.getElementById('table'));
 table.render(<Table />);
 
 // If you want to start measuring performance in your app, pass a function

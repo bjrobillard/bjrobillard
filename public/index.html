@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<script type="text/javascript" src="../src/scripts.js"></script>
 <head>
   <meta charset="utf-8" />
   <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
@@ -10,15 +11,21 @@
   <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
 
   <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-  <script type="text/javascript" src="../src/index.js"></script>
 
 </head>
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
   <div id="title"></div>
-  <div id="magTable"></div>
+
+  <div id="table"></div>
+  
+  <input id="userInput" type="text" value="" placeholder="Any # between 30 - 100" />
+  <button id="gobutton" onclick='buttonClicked()' class="btn btn-primary">Go!</button>
+
   <div id="root"></div>
+
+
   <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
