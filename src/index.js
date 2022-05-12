@@ -4,8 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Title from './Title';
-// import Table from './Table';
-
+import CountingGos from './CountingGos';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,8 +16,8 @@ root.render(
 const title = ReactDOM.createRoot(document.getElementById('title'));
 title.render(<Title />);
 
-// const table = ReactDOM.createRoot(document.getElementById('table'));
-// table.render(<Table />);
+const countingGos = ReactDOM.createRoot(document.getElementById('countingGo'));
+countingGos.render(<CountingGos />);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

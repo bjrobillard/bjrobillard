@@ -18,8 +18,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-
-      <table>
+      <table className='magTable'>
         <tbody>
           <tr>
             <td id='ph1'></td>
