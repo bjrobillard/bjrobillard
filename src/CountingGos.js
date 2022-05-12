@@ -19,7 +19,7 @@ function CountingGos() {
 
         else {
             //setting numbers based on input
-            document.getElementById("headerStuff").innerHTML = a;
+            document.getElementById("headerStuff").innerHTML = "The number you chose was: " + a;
             document.getElementById("a1").innerHTML = a -= 20;
             document.getElementById("a2").innerHTML = a -= 1;
             document.getElementById("a3").innerHTML = a += 3;

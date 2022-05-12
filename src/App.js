@@ -1,23 +1,16 @@
 // import logo from './logo.svg';
 import './App.css';
 
+//To Do:
+  //add in part that specifically explains what rows, cols, corners, diag add up to the num
+    //add test for that part
+    //fix css and placement of the information to center of doc
+  //maybe...
+    //add guessing for a given number?
+
 function App() {
   return (
     <div className="App" data-testid='tableTest'>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
       <table className='magTable'>
         <tbody>
           <tr>
