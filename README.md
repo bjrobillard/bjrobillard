@@ -1,5 +1,20 @@
 # This is for my final project Adv JS
 
+## Report
+This app is to create a 'Magic Square' based off a number inputted by the user.
+The square makes all the rows, columns, diagonals, corners, and center squares add up to the number given.
+
+It also adds up the number of times a number is inputted and shows the number that is inputted.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

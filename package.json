@@ -1,7 +1,7 @@
 {
   "name": "bjrobillard",
   "version": "0.1.0",
-  "homepage": "https://myusername.github.io/bjrobillard",
+  "homepage": "https://bjrobillard.github.io/bjrobillard",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
