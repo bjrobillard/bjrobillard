@@ -5,4 +5,4 @@ test('Title is in the document', () => { //make sure title is in the document
     render(<Title />);
     const title = screen.getByText("The Magic Square");
     expect(title).toBeInTheDocument();
-}) 
+}); 

@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Title from './Title';
 import CountingGos from './CountingGos';
+import Author from './Author';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,6 +19,9 @@ title.render(<Title />);
 
 const countingGos = ReactDOM.createRoot(document.getElementById('countingGo'));
 countingGos.render(<CountingGos />);
+
+const author = ReactDOM.createRoot(document.getElementById('author'));
+author.render(<Author />);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
