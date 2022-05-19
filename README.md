@@ -9,9 +9,7 @@ It also adds up the number of times a number is inputted and shows the number th
 
 It alerts if a number lower than 30 or higher than 100 is inputted
 
-
-
-
+Website can be found at: "https://bjrobillard.github.io/bjrobillard"
 
 
 <!-- # Getting Started with Create React App
