@@ -1,21 +1,20 @@
-# This is for my final project Adv JS
+# Final Project - Spring 2022 Adv. JS
+### By: Benjamin Robillard
 
-## Report
+## Magic Square Information
 This app is to create a 'Magic Square' based off a number inputted by the user.
 The square makes all the rows, columns, diagonals, corners, and center squares add up to the number given.
 
 It also adds up the number of times a number is inputted and shows the number that is inputted.
 
+It alerts if a number lower than 30 or higher than 100 is inputted
 
 
 
 
 
 
-
-
-
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -84,4 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
