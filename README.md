@@ -1,16 +1,19 @@
-# Final Project - Spring 2022 Adv. JS
-### By: Benjamin Robillard
+# College Projects
+###  Benjamin Robillard
+---
+The purpose of this repository is to showcase some of the projects I enjoyed working on during my college career. It includes projects from: Object Oriented Programming, User Interface Design, Networking, UNIX .....
 
-## Magic Square Information
-This app is to create a 'Magic Square' based off a number inputted by the user.
-The square makes all the rows, columns, diagonals, corners, and center squares add up to the number given.
+---
+## Object Oriented Programming ('OOP-Sp23')
+This folder contains projects such as a couple kattis problems I was required to do as well as my final student showcase project that was presented to the school at the end of the semester. The Student Showcase project was an AI maitching game called, 'M Ai T C H' where users can play a game of memory matching or they can change a variable in the code to have the game play itself - though there is no REAL Ai playing the game it still does play itself (see abstract for more information).
 
-It also adds up the number of times a number is inputted and shows the number that is inputted.
+---
+## User Interface Design ('UI-Fall23')
+This folder contains work from my Spring 2023 class for User Interface design. It contains my final project which was also presented to the school for Student Showcase. The project was for a mobile app that allowed users to post a picture of a place they went to gain points and to motivate their friends to compete to see who got the most points (see abstract for more information).
 
-It alerts if a number lower than 30 or higher than 100 is inputted
-
-Website can be found at: "https://bjrobillard.github.io/bjrobillard"
-
+---
+## UNIX ('UNIX-Fall23')
+This folder contains some projects from my UNIX class I took in the Spring of 2023. One of the projects is 
 
 <!-- # Getting Started with Create React App
 
