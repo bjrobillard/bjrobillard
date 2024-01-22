@@ -1,0 +1,17 @@
+@startuml Shape UML
+scale 2
+title Shape UML
+
+class Palindrome{
+    ... private members ...
+    - _not_morse: list
+
+    ... special methods ...
+    - __init__(): None
+    - __str__(): str
+    - __repr__(): str
+
+    ... instance/public method ...
+    + change_to_morse(): str
+}
+@enduml

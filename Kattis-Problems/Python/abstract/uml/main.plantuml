@@ -1,0 +1,23 @@
+@startuml Main Class 
+scale 2
+title Main Class
+
+abstract class Main {
+    ... private members ...
+    - _ans: list
+    - _data: list
+
+    ... special methods ...
+    - __init__(): None
+
+    ... instance/public method ...
+    + data(): Any
+    + read_in_data(): None
+    + solve(): None
+    + answer(): Any
+    + print_answer(): None
+    
+    {static} main(): None
+}
+
+@enduml

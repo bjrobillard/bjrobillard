@@ -1,0 +1,16 @@
+@startuml Shape UML
+scale 2
+title Shape UML
+
+class MixedFractions{
+    ... private members ...
+    - _cost: float
+    - _title: str
+
+    ... special methods ...
+    - __init__(): None
+
+    ... instance/public method ...
+    + find_mixFunc(): str
+}
+@enduml

@@ -1,0 +1,5 @@
+I just wanted to include some notes in case you didn't see the ones in my Makefile...
+    - The coverage reports aren't at 100% but they're within ~20% so I thought that would be enough to show 
+        that I know how to use Coverage
+    - I also did what you said to get the coverage htmlcov to show up in my repo by deleting the .gitignore but 
+        it still isn't showing up in there

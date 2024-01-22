@@ -1,0 +1,17 @@
+@startuml Shape UML
+scale 2
+title Cup UML
+
+class BaseStatistics{
+    ... private members ...
+    - _inpt: list
+
+    ... special methods ...
+    - __init__(): None
+
+    ... instance/public method ...
+    + is_int(): bool
+    + __str__(): str
+    + __repr__(): str
+}
+@enduml

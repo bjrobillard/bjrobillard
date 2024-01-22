@@ -1,0 +1,29 @@
+@startuml Shape UML
+scale 2
+title Shape UML
+
+class BaseStatistics{
+    ... private members ...
+    - _inputLine: list
+
+    ... special methods ...
+    - __init__(): None
+
+    ... instance/public method ...
+    + find_max(): int
+    + find_min(): int
+}
+
+class Statistics{
+    ... private members ...
+    - inputLine: list
+
+    ... special methods ...
+    - __init__(): None
+
+    ... instance/public methods ...
+    + find_range(): int
+    + find_stats(): str
+}
+Statistics->BaseStatistics
+@enduml

@@ -1,0 +1,19 @@
+{
+  "name": "egypt",
+  "version": "1.0.0",
+  "description": "kattis egypt problem",
+  "main": "egypt.js",
+  "scripts": {
+    "test": "jest",
+    "kattis_test": "cat 1.in | node egypt.js | diff - 1.ans && echo \"All kattis tests passed\""
+  },
+  "keywords": [
+    "Kattis",
+    "Egypt"
+  ],
+  "author": "Ben R",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}

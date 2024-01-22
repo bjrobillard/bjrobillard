@@ -1,0 +1,19 @@
+{
+  "name": "helpaphd",
+  "version": "1.0.0",
+  "description": "kattis helpaphd prob",
+  "main": "helpaphd.js",
+  "scripts": {
+    "test": "jest",
+    "kattis_test": "cat 1.in | node helpaphd.js | diff - 1.and && echo \"All Kattis sample tests passed"
+  },
+  "keywords": [
+    "kattis",
+    "helpaphs"
+  ],
+  "author": "Ben R",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}

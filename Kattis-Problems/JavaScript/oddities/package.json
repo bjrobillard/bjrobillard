@@ -1,0 +1,19 @@
+{
+  "name": "oddities",
+  "version": "1.0.0",
+  "description": "kattis oddities prob",
+  "main": "oddities.js",
+  "scripts": {
+    "test": "jest",
+    "kattis_test": "cat sample.in | node oddities.js | diff - sample.ans && echo \"All Kattis test samples passed..."
+  },
+  "keywords": [
+    "kattis",
+    "oddities"
+  ],
+  "author": "Ben R",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}

@@ -1,7 +1,7 @@
 # College Projects
 ###  Benjamin Robillard
 ---
-The purpose of this repository is to showcase some of the projects I enjoyed working on during my college career. It includes projects from: Object Oriented Programming, User Interface Design, Networking, UNIX .....
+The purpose of this repository is to showcase some of the projects I enjoyed working on during my college career. It includes projects from: Object Oriented Programming, User Interface Design, Networking, UNIX, Kattis Problem Solutions, .....
 
 ---
 ## Object Oriented Programming ('OOP-Sp23')
@@ -14,6 +14,17 @@ This folder contains work from my Spring 2023 class for User Interface design. I
 ---
 ## UNIX ('UNIX-Fall23')
 This folder contains some projects from my UNIX class I took in the Spring of 2023. One of the projects is 
+
+---
+## Kattis Problem Solutions ('Kattis-Problems')
+This folder contains Kattis Problem Solutions some of which have: Unittesting and mypy to test functionality, Coverage Reporting to show how much of the code is tested, and plantuml to help explain the different classes used, their data types and the relationships between functions in the class. Other kattis problem solutions only have the solutions and use a different style of coding than object oriented. An example of the testing used can be seen from the abstract file (solving the 'Stacking Cups' Kattis Problem 'https://open.kattis.com/problems/cups')
+
+- Coverage Report
+![Coverage_Report](/img/CoverageReport.png)
+- Pytest
+![Pytest_Pass](/img/pytestPass.png)
+- TypeCheck
+![TypeCheck_Pass](/img/typeCheckPass.png)
 
 <!-- # Getting Started with Create React App
 

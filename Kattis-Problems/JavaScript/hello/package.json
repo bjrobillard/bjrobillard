@@ -1,0 +1,26 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Kattis Hello Prob",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjrobillard/AdvJs-bjrobillard.git"
+  },
+  "keywords": [
+    "kattis",
+    "hello"
+  ],
+  "author": "Ben Robillard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjrobillard/AdvJs-bjrobillard/issues"
+  },
+  "homepage": "https://github.com/bjrobillard/AdvJs-bjrobillard#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}

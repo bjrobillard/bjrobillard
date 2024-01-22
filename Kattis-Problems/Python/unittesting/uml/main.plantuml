@@ -1,0 +1,21 @@
+@startuml Main Class 
+scale 2
+title Main Class
+
+class Main {
+    ... private members ...
+    - _phrase: str
+    - _ans: list
+
+    ... special methods ...
+    - __init__(): None
+
+    ... instance/public method ...
+    + read_in_data(): None
+    + print_data(): str
+    + data(): str
+    
+    {static} main(): None
+}
+
+@enduml
