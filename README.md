@@ -16,7 +16,7 @@ This folder contains some projects from my UNIX class I took in the Spring of 20
 
 ---
 ## Kattis Problem Solutions ('Kattis-Problems')
-This folder contains Kattis Problem Solutions some of which have: Unittesting and mypy to test functionality, Coverage Reporting to show how much of the code is tested, and plantuml to help explain the different classes used, their data types and the relationships between functions in the class. Other kattis problem solutions only have the solutions and use a different style of coding than object oriented. An example of the testing used can be seen from the abstract file (solving the 'Stacking Cups' Kattis Problem 'https://open.kattis.com/problems/cups')
+This folder contains Kattis Problem Solutions some of which have: Unittesting and mypy to test functionality, Coverage Reporting to show how much of the code is tested, and plantuml to help explain the different classes used, their data types and the relationships between functions in the class. Other kattis problem solutions only have the solutions and use a different style of coding than object oriented. An example of the testing used can be seen from the abstract file ([Abstract](/Kattis-Problems/Python/abstract/)) solving the [Stacking Cups](https://open.kattis.com/problems/cups) Kattis Problem)
 
 - Coverage Report
 ![Coverage_Report](/img/CoverageReport.png)
@@ -25,6 +25,11 @@ This folder contains Kattis Problem Solutions some of which have: Unittesting an
 - TypeCheck
 ![TypeCheck_Pass](/img/typeCheckPass.png)
 
+From a different solution (Folder: [Unittesting](/Kattis-Problems/Python/unittesting/)), here is an example of how plantuml was used to display a uml diagram of the classes used to solve the "Morse Code Palindrome" problem ([Morse Code Palindrome](https://open.kattis.com/problems/morsecodepalindromes)).
+![UML_Main_Class](/Kattis-Problems/Python/unittesting/uml/Main%20Class.png)
+![UML_Palindrome_Class](/Kattis-Problems/Python/unittesting/uml/Shape%20UML.png)
+
+These are some examples of how I used different testing libraries to help prove the functionality of 
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
