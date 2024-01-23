@@ -1,6 +1,7 @@
 # College Projects
 ###  Benjamin Robillard
-The purpose of this repository is to showcase some of the projects I enjoyed working on during my college career. It includes projects from: Object Oriented Programming, User Interface Design, Networking, UNIX, Kattis Problem Solutions, .....
+The purpose of this repository is to showcase some kattis problems I have solved to give insight into what I've learned during my time at CMU.
+<!-- The purpose of this repository is to showcase some of the projects I enjoyed working on during my college career. It includes projects from: Object Oriented Programming, User Interface Design, Networking, UNIX, Kattis Problem Solutions
 
 ---
 ## Object Oriented Programming ('OOP-Sp23')
@@ -12,7 +13,7 @@ This folder contains work from my Spring 2023 class for User Interface design. I
 
 ---
 ## UNIX ('UNIX-Fall23')
-This folder contains some projects from my UNIX class I took in the Spring of 2023. One of the projects is 
+This folder contains some projects from my UNIX class I took in the Spring of 2023. One of the projects is  -->
 
 ---
 ## Kattis Problem Solutions ('Kattis-Problems')
@@ -29,7 +30,7 @@ From a different solution (Folder: [Unittesting](/Kattis-Problems/Python/unittes
 ![UML_Main_Class](/Kattis-Problems/Python/unittesting/uml/Main%20Class.png)
 ![UML_Palindrome_Class](/Kattis-Problems/Python/unittesting/uml/Shape%20UML.png)
 
-These are some examples of how I used different testing libraries to help prove the functionality of 
+These are some examples of how I used different testing libraries to help prove the functionality of the programs I made to solve the problems.
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
