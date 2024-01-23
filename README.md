@@ -1,6 +1,6 @@
 # College Projects
 ###  Benjamin Robillard
-The purpose of this repository is to showcase some kattis problems I have solved to give insight into what I've learned during my time at CMU.
+The purpose of this repository is to showcase some kattis problems I have solved to give insight into what I've learned during my time at CMU. You can access the code solutions in my repository on [GitHub](https://github.com/bjrobillard/bjrobillard)
 <!-- The purpose of this repository is to showcase some of the projects I enjoyed working on during my college career. It includes projects from: Object Oriented Programming, User Interface Design, Networking, UNIX, Kattis Problem Solutions
 
 ---
