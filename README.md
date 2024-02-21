@@ -14,6 +14,12 @@ This folder contains work from my Spring 2023 class for User Interface design. I
 ---
 ## UNIX ('UNIX-Fall23')
 This folder contains some projects from my UNIX class I took in the Spring of 2023. One of the projects is  -->
+---
+## Software Engineering
+In this class I worked with a team with three other students from the class. We were tasked with finding a client that had a project for us to work on. The client we found was a small research team out of Vermont that wanted us to create a website that showcased their research and findings - the purpose of this website was to be an outlet for children and caretakers to learn more about mental disabilities in children. Below are some images of the website and the work that I did to help satisfy our clients requests.
+![HomepageBiobee](/img/biobeeHomepage.png)
+![AnxietyBiobee](/img/biobeeAnxiety.png)
+![AnxietyBiobeeMOV](/img/AnxietyVideo.mov)
 
 ---
 ## Kattis Problem Solutions ('Kattis-Problems')
