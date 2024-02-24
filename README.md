@@ -16,10 +16,15 @@ This folder contains work from my Spring 2023 class for User Interface design. I
 This folder contains some projects from my UNIX class I took in the Spring of 2023. One of the projects is  -->
 ---
 ## Software Engineering
-In this class I worked with a team with three other students from the class. We were tasked with finding a client that had a project for us to work on. The client we found was a small research team out of Vermont that wanted us to create a website that showcased their research and findings - the purpose of this website was to be an outlet for children and caretakers to learn more about mental disabilities in children. Below are some images of the website and the work that I did to help satisfy our clients requests.
+In this class I worked with a team with three other students from the class. We were tasked with finding a client that had a project for us to work on. The client we found was a small research team out of Vermont that wanted us to create a website that showcased their research and findings - the purpose of this website was to be an outlet for children and caretakers to learn more about mental disabilities in children. Below are some images of the website and the work that I did to help satisfy our clients requests. Over the course of the project we had weekly meetings with our client to discuss the different changes they wanted to make and to update them on our progress as a group. My part in the project was creating the Anxiety page as well as a font size changer so that our website would be more accessible for some users. 
+- Homepage
 ![HomepageBiobee](/img/biobeeHomepage.png)
+- Anxiety Page
 ![AnxietyBiobee](/img/biobeeAnxiety.png)
-![AnxietyBiobeeMOV](/img/AnxietyVideo.mov)
+![DiagnosticCriteria](/img/anxDiagnostic.png)
+![ChangesWithAge](/img/anxCWA.png)
+![Books](/img/anxBooks.png)
+![Videos](/img/anxVids.png)
 
 ---
 ## Kattis Problem Solutions ('Kattis-Problems')
